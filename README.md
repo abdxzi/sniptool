@@ -1,6 +1,6 @@
 # Snipping Tool
 
-<img src='images/banner.png' />
+<img src='https://i.imgur.com/VZYChL1.png' />
 
 > A Snipping Tool built using Python that allows users to capture screenshots, similar to windows snip tool
 
