@@ -1,6 +1,6 @@
 # Snipping Tool
 
-![Project Logo](path/to/your/logo.png)
+![Project Logo](images/banner.png)
 
 > A Snipping Tool built using Python that allows users to capture screenshots, similar to windows snip tool
 
