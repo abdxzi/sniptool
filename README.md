@@ -28,10 +28,6 @@ The Python Snipping Tool is an open-source project, similar to the one found in 
 - Capture screenshots of multiple ROIs.
 - Save screenshots in popular image formats (PNG, JPEG, etc.).
 
-### Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-<!-- Add more screenshots if needed -->
 
 ## Getting Started
 
@@ -45,12 +41,12 @@ The Python Snipping Tool is an open-source project, similar to the one found in 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/Python-Snipping-Tool.git
+   git clone https://github.com/abdxzi/sniptool.git
    ```
    
 2. Navigate to the project directory:
    ```sh
-   cd Python-Snipping-Tool
+   cd sniptool
    ```
 
 ## Usage
@@ -83,4 +79,4 @@ Contributions are welcome!
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [`LICENSE`](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) for more information.
