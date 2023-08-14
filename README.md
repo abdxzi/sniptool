@@ -59,14 +59,14 @@ Run the `snipping_tool.py` by double click
 
 ## Import to other programs
 <br />
-```python
-from snipper import ScreenSnipper
-
-app = ScreenSnipper()
-snips = app.snip()
-print(snips)
+   ```python
+   from snipper import ScreenSnipper
+   
+   app = ScreenSnipper()
+   snips = app.snip()
+   print(snips)
   
-```
+   ```
 The program retruns screenshots as an array of PIL images.
 
 ## Contributing
