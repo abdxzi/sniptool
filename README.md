@@ -58,7 +58,6 @@ The Python Snipping Tool is an open-source project, similar to the one found in 
 Run the `snipping_tool.py` by double click
 
 ## Import to other programs
-<br />
    ```python
    from snipper import ScreenSnipper
    
@@ -76,4 +75,3 @@ Contributions are welcome!
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
