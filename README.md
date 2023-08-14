@@ -68,7 +68,14 @@ Run the `snipping_tool.py` by double click
    # [<PIL.Image.Image image mode=RGB size=310x250 at 0x228AEDB4D50>, <PIL.Image.Image image mode=RGB size=454x307 at 0x228AEDB4E10>]
   
    ```
-The program retruns screenshots as an array of PIL images.
+The program retruns screenshots as an array of PIL images that can be processed further. We can save the images to suitable formate as using Pillow library `save()`:
+
+   ```python
+   
+   for image in snips:
+      image.save(output_path, format='PNG')
+  
+   ```
 
 ## Contributing
 
