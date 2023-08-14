@@ -1,6 +1,6 @@
 # Snipping Tool
 
-![Project Logo](https://github.com/abdxzi/sniptool/blob/d328c185f599f23c74000d362610ed31604b9a51/images/banner.png)
+<img src='images/banner.png' />
 
 > A Snipping Tool built using Python that allows users to capture screenshots, similar to windows snip tool
 
@@ -64,6 +64,8 @@ Run the `snipping_tool.py` by double click
    app = ScreenSnipper()
    snips = app.snip()
    print(snips)
+
+   # [<PIL.Image.Image image mode=RGB size=310x250 at 0x228AEDB4D50>, <PIL.Image.Image image mode=RGB size=454x307 at 0x228AEDB4E10>]
   
    ```
 The program retruns screenshots as an array of PIL images.
