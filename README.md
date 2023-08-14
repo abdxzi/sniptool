@@ -1,6 +1,6 @@
 # Snipping Tool
 
-![Project Logo](images/banner.png)
+![Project Logo](https://github.com/abdxzi/sniptool/blob/d328c185f599f23c74000d362610ed31604b9a51/images/banner.png)
 
 > A Snipping Tool built using Python that allows users to capture screenshots, similar to windows snip tool
 
