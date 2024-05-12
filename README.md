@@ -2,7 +2,7 @@
 
 <img src='https://i.imgur.com/VZYChL1.png' />
 
-> A Snipping Tool built using Python that allows users to capture screenshots, similar to windows snip tool
+> A Snipping Tool built using Python that allows users to capture screenshots, similar to windows snip tool (WIN + Shift + S)
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
